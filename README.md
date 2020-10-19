@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-![WDS screenshot](./WDS_ss.png?raw=true "Workday Scheduler")
+![WDS screenshot](/WDS_ss.PNG?raw=true "Workday Scheduler")
 
 ## Purpose
 A simple hour by hour work day scheduling app.
